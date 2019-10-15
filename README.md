@@ -14,6 +14,7 @@ ex:1
 
 ex:2
 #Column win
+
 |X|O|X|
 -------
 |X| |O|
@@ -23,6 +24,7 @@ ex:2
 
 ex:3
 #diagonal_win
+
 |X| | |
 -------
 |O|X| |
